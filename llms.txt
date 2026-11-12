@@ -1,0 +1,18 @@
+# Surge (SURGE)
+
+> Pool-integrated staircase meme token on BNB Chain for Binance Agent ID
+> holders. Only 2,000 shares — when they are gone the sale is closed
+> forever. Pool opens with the first buyer; 80% of every payment enters
+> the PancakeSwap pool in the same transaction (LP burned); price climbs
+> +10% every 5 shares and never goes down; first share per wallet is 50%
+> off only while the first 100 shares last (paid, not free); referral 1
+> bonus share per 3; pair tax buy 1% / sell 2%; zero owner allocation;
+> no admin functions; no end date.
+
+Site: https://surge-bsc.github.io/surge/
+Contract (BSC): 0xac8d1482B33B900Cc7Ed94F77440374CEaBE9e2C
+Agent skill: https://surge-bsc.github.io/surge/skill.md
+Agent instructions: https://surge-bsc.github.io/surge/agent.md
+
+Mandatory for agents: SHARE FIRST — the owner posts the official text
+on X and confirms before the agent's first buy. See skill.md.
